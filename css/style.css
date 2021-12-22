@@ -1,0 +1,46 @@
+img {
+  width: 355px;
+  height: 280px;
+}
+header {
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  color: #b9bffc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+h3 {
+  color: #b9bffc;
+}
+html {
+  background-image: linear-gradient(#000000, #0f032e);
+}
+p,
+li {
+  color: #b9bffc;
+  padding: 0%;
+}
+.gif {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.video {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.gif2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.undertext {
+  text-align: center;
+  font-size: 3mm;
+}
+.footer {
+  color: white;
+  text-align: center;
+}
